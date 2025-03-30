@@ -13,8 +13,8 @@ Analyze movie ratings and audience preferences to uncover the factors that drive
 Forecast the most profitable movie genres for the company.
 
 ### Conclusions
-Increase in budget leads to an increase in worldwide gross
-Movies with a runtime between 141 to 180 have the highest budget and the highest worldwide gross
-Adventure movies have the highest budget, highest gross and the highest profit margin folowed by Action movies
-Most of the highest grossing movies are made in the USA
-Movies with a low runtime have the highest gross margin due to the fact they are cheap to produce
+-Increase in budget leads to an increase in worldwide gross.
+-Movies with a runtime between 141 to 180 have the highest budget and the highest worldwide gross.
+-Adventure movies have the highest budget, highest gross and the highest profit margin folowed by Action movies.
+-Most of the highest grossing movies are made in the USA.
+-Movies with a low runtime have the highest gross margin due to the fact they are cheap to produce.
